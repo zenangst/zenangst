@@ -7,7 +7,7 @@ I've built and open sourced the following things:
 - ⛽️ [Differific](https://github.com/zenangst/Differific), just like the name implies, it helps to compare collections of hashable objects
 - 🚸 [Family](https://github.com/zenangst/Family), container controllers can be great for composition but they can be hard to manage, this is were Family comes in to help
 - 🍫 [Syncalicious](https://github.com/zenangst/Syncalicious), on macOS, preferences are everything; they are what separate your mac from the rest, make it stand out, and give it personality. Setting up a new installation of macOS can be fun and liberating, but it can also be a chore. This is where Syncalicious comes in.
-💉 [Vaccine](https://github.com/zenangst/Vaccine), it does the heavy lifting when responding to run-time code injection
+- 💉 [Vaccine](https://github.com/zenangst/Vaccine), it does the heavy lifting when responding to run-time code injection
 
 I've recently taken over responsibility for maintaining [InjectionIII](https://itunes.apple.com/no/app/injectioniii/id1380446739?mt=12) which you can find in the Mac App Store. InjectionIII is a menu-based application that enables run-time code injection in Swift and Objective-C.
 
