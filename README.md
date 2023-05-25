@@ -2,6 +2,7 @@ I'm a fun-loving and nerdy Swed living in Oslo, Norway. After getting hooked on 
 
 I've built and open sourced the following things:
 
+- ⌨️ [Keyboard Cowboy](https://github.com/zenangst/KeyboardCowboy), The missing keyboard shortcut utility for macOS
 - 🌓 [Gray](https://github.com/zenangst/Gray), a macOS application for tailoring your Mojave experience on an app-per-app basis
 - 🌀 [Blueprints](https://github.com/zenangst/Blueprints), a collection view framework that helps to create your layout, it also comes with a few very flexible layout out-of-the-box
 - ⛽️ [Differific](https://github.com/zenangst/Differific), just like the name implies, it helps to compare collections of hashable objects
